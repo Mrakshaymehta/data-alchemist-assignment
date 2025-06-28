@@ -1,5 +1,5 @@
 # Data Alchemist – Project Documentation
-
+https://www.youtube.com/watch?v=Ly4Yb4L-t-A
 ## Overview
 
 **Data Alchemist** is a modern, AI-powered data operations platform built with Next.js. It enables users to upload, search, edit, validate, and auto-fix tabular data (CSV/XLSX) using both natural language and advanced AI (Gemini/OpenAI) capabilities. The UI is clean, responsive, and user-friendly, supporting both manual and AI-driven workflows.
